@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhupendra Kumar Swar
-- 👀 I’m interested in AI feilds such as Machine Learning, Deep Learning
+- 👀 I’m interested in AI fields such as Machine Learning, Deep Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on machine learning projects
 
